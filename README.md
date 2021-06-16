@@ -1,5 +1,7 @@
 # submission_0209
 
+The code has been tested under Python 3.7 and Pytorch 1.7
+
 For the real-world heterogneous graph inference:
 ```
 python hgen.py
